@@ -3,8 +3,7 @@
 #include <string.h>
 
 /* tablica dostepnych znakow */
-//static const char alphabet[] = "abcdefghijklmnopqrstuvwxyzBCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-static const char alphabet[] = "abcd";
+static const char alphabet[] = "abcdefghijklmnopqrstuvwxyzBCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
 /* deklaracja zmiennych */
 char *password;
